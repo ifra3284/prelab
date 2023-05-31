@@ -1,0 +1,24 @@
+h1{
+    font-style: italic;
+    color: white;
+}
+h3{
+    font-style: italic;
+    color:white;
+
+}
+a{
+    font-style: italic;
+    color: white;
+}
+#grad {
+    width:auto;
+    border:1px solid red;
+    background-image: linear-gradient(red, yellow, green);
+  }
+}
+   
+        
+    
+</body>
+</html>
